@@ -1,0 +1,106 @@
+
+hr
+{
+    border-top: 4px solid rgb(170, 33, 33);
+    width: 100%;
+}
+.name
+{
+    font-weight: bolder;
+}
+.post, .numbers
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#para
+{
+    line-height: 1.6;
+}
+.icons
+{
+    margin-top: 30px;
+}
+.activity, .history, .speciality
+{
+    margin-top: 80px;
+}
+.ac_head
+{
+    font-weight: bolder;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+img
+{
+    width: 160px;
+    height: 200px;
+}
+.img 
+{
+    padding:0px 0px;
+    margin: 0px 0px;
+}
+.txt
+{
+    font-size: 12px;
+    color: gray;
+}
+p
+{
+    padding:0px;
+}
+.specialities
+{
+    margin-top: 80px;
+}
+.intro
+{
+    margin-top:20px;
+}
+.en
+{
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+.icon1
+{
+    display: inline-block;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin:1px;
+}
+.i
+{
+  vertical-align: center;
+  margin-top: 45%;
+  margin-left: 26%;  
+}
+@media screen and (max-width: 992px) {
+    .img {
+      text-align: center;
+    }
+    .noscroll
+    {
+      padding: 0px;
+    }
+  
+  }
+  @media screen and (max-width: 992px) {
+    .cen {
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .align {
+      margin-left: 0px;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    .title
+  {
+    text-align: end;
+  }
+  }
